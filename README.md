@@ -1,2 +1,2 @@
 # qoocalpis.github.io
-# aaaa
+# privacy.html
